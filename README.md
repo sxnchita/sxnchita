@@ -13,8 +13,7 @@ Building web apps, DSA tools & interactive learning experiences.
 | Project | Description | Live |
 |---------|-------------|------|
 | [DSA Visualizer]([https://sxnchita.github.io/dsa-visualizer/](https://sxnchita.github.io/dsa-visualizer/)) | Interactive visualizations for sorting, graph & DP algorithms | [Demo](https://sxnchita.github.io/dsa-visualizer/) |
-| LeetCode Dashboard | Flask + Chart.js analytics dashboard with Anthropic API & Redis | — |
-| Smart City Complaints | MySQL + TailwindCSS analytics system with DBMS normalization | — |
+
 ## Stats
 
 ![Sanchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxnchita&show_icons=true&theme=default&hide_border=true)
