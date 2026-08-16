@@ -137,12 +137,14 @@ An AI-powered interview preparation platform designed to help students prepare f
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/sxnchita">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=sxnchita&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/sxnchita">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sxnchita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=sxnchita&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sxnchita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -150,29 +152,22 @@ An AI-powered interview preparation platform designed to help students prepare f
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sxnchita&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img
+    src="https://streak-stats.demolab.com?user=sxnchita&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxnchita&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
-## 📌 GitHub Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/github/repos/sxnchita?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES" />
-
-<img src="https://img.shields.io/github/followers/sxnchita?style=for-the-badge&logo=github&label=FOLLOWERS" />
-
-<img src="https://img.shields.io/github/stars/sxnchita?style=for-the-badge&logo=github&label=STARS" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sxnchita&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
@@ -180,18 +175,34 @@ An AI-powered interview preparation platform designed to help students prepare f
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
-## 📅 Contribution Calendar
+## 📌 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxnchita&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+
+<img
+ src="https://img.shields.io/github/followers/sxnchita?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS"
+/>
+
+<img
+ src="https://img.shields.io/github/stars/sxnchita?style=for-the-badge&logo=github&logoColor=white&label=STARS"
+/>
+
+  <a href="https://github.com/sxnchita?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Repositories-View%20All-6366F1?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
 </p>
 
----
 
 ## 🎯 Currently
 
