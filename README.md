@@ -68,7 +68,7 @@ AI-powered interview preparation platform for DSA, mock interviews and technical
 ## 📊 GITHUB STATS
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sxnchita&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sxnchita&theme=tokyonight" />
+ <img height="165" src="https://streak-stats.demolab.com/?user=sxnchita&theme=tokyonight" />
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
