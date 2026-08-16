@@ -170,17 +170,15 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=sxnchita&l
 
 ---
 
-# 🔥 Contribution Streak
+## 🌸 Contribution Streak
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=sxnchita&theme=calm-pink&hide_border=true&border_radius=12&background=FFF7FA&stroke=F2C6D2&ring=E88CA8&fire=C95F7A&currStreakNum=C95F7A&sideNums=C95F7A&currStreakLabel=C95F7A&sideLabels=8A6570&dates=8A6570"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=sxnchita&theme=rose_pine&hide_border=true&background=FFF7FA&ring=E88CA8&fire=C95F7A&currStreakNum=C95F7A&sideNums=C95F7A&currStreakLabel=C95F7A&sideLabels=8A6570&dates=8A6570"
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
----
+--
 
 # 🌷 Contribution Activity
 
@@ -194,14 +192,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sxnchita&bg_
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
 ---
