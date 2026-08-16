@@ -172,17 +172,6 @@ An AI-powered interview preparation platform designed to help students prepare f
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ## 📌 GitHub Highlights
 
 <p align="center">
