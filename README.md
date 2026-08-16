@@ -65,45 +65,40 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-<p align="center">
+### **Languages**
 
-### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://img.shields.io/badge/C++-FFF0F4?style=for-the-badge&logo=c%2B%2B&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Java-FFF0F4?style=for-the-badge&logo=openjdk&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Python-FFF0F4?style=for-the-badge&logo=python&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/JavaScript-FFF0F4?style=for-the-badge&logo=javascript&logoColor=C95F7A"/>
+### **Frontend**
 
-### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<img src="https://img.shields.io/badge/React-FFF0F4?style=for-the-badge&logo=react&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Vite-FFF0F4?style=for-the-badge&logo=vite&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-FFF0F4?style=for-the-badge&logo=tailwindcss&logoColor=C95F7A"/>
+### **Backend**
 
-### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<img src="https://img.shields.io/badge/Spring_Boot-FFF0F4?style=for-the-badge&logo=springboot&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Spring_Security-FFF0F4?style=for-the-badge&logo=springsecurity&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/REST_APIs-FFF0F4?style=for-the-badge&logo=fastapi&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/JWT-FFF0F4?style=for-the-badge&logo=jsonwebtokens&logoColor=C95F7A"/>
+### **Database**
 
-### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-<img src="https://img.shields.io/badge/MySQL-FFF0F4?style=for-the-badge&logo=mysql&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/JPA-FFF0F4?style=for-the-badge&logo=hibernate&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Hibernate-FFF0F4?style=for-the-badge&logo=hibernate&logoColor=C95F7A"/>
+### **Tools**
 
-### ☁️ Tools & Cloud
-
-<img src="https://img.shields.io/badge/AWS-FFF0F4?style=for-the-badge&logo=amazonaws&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Git-FFF0F4?style=for-the-badge&logo=git&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/GitHub-FFF0F4?style=for-the-badge&logo=github&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/Postman-FFF0F4?style=for-the-badge&logo=postman&logoColor=C95F7A"/>
-<img src="https://img.shields.io/badge/VS_Code-FFF0F4?style=for-the-badge&logo=visualstudiocode&logoColor=C95F7A"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
