@@ -64,13 +64,11 @@ AI-powered interview preparation platform for DSA, mock interviews and technical
 - Exploring AI & cloud technologies
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 📊 GITHUB STATS
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sxnchita&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sxnchita&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=sxnchita&theme=tokyo-night" />
 </p>
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📫 CONNECT WITH ME
