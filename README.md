@@ -196,8 +196,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sxnchita&bg_
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-    alt="GitHub Profile Trophies"
+  src="https://github-profile-trophy.vercel.app/?username=sxnchita&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+  alt="GitHub Profile Trophies"
+/>
   />
 </p>
 
