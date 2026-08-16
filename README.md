@@ -174,7 +174,7 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=sxnchita&l
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=sxnchita&theme=rose_pine&hide_border=true&background=FFF7FA&ring=E88CA8&fire=C95F7A&currStreakNum=C95F7A&sideNums=C95F7A&currStreakLabel=C95F7A&sideLabels=8A6570&dates=8A6570"
+    src="[https://streak-stats.demolab.com/?user=sxnchita&theme=rose_pine&hide_border=true&background=FFF7FA&ring=E88CA8&fire=C95F7A&currStreakNum=C95F7A&sideNums=C95F7A&currStreakLabel=C95F7A&sideLabels=8A6570&dates=8A6570](https://streak-stats.demolab.com/?user=sxnchita)"
     alt="GitHub Contribution Streak"
   />
 </p>
